@@ -123,7 +123,23 @@ This repository is intended solely for learning and portfolio purposes.
 
 # 📸 Dashboard Preview
 
-> Dashboard screenshots will be added here.
+The following screenshots showcase the interactive reports included in the dashboard.
+
+## 🏠 Dashboard
+
+![Dashboard](Dashboard.png)
+
+---
+
+## ⏱️ Employee Working Hours Report
+
+![Working Hours Report](Working_Hours_Report.png)
+
+---
+
+## 👥 Active with Customer Report
+
+![Active Customer Report](Active_With_Customer_Report.png)
 
 ---
 
